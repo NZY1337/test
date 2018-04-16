@@ -7,3 +7,5 @@ function myFunction(x, y) {
 
 var x = myFunction(5,3);
 console.log(x);
+
+sal all
