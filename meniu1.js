@@ -1,9 +1,10 @@
 console.log('hello world');
 console.log('eat pizza');
 
-function myFunction(x, y) {
-    return x + y;
+
+function myFunction(x, u) {
+    return x + u;
 }
 
-var x = myFunction(5,3);
+var x = myFunction(3,4);
 console.log(x);
